@@ -29,7 +29,7 @@ var grandchildren = new SpreadIterable(grandparent);
 
 Where:
 
- * `grandparent` is an (infinite/endless) iterable object whose elements are iterable as well as their parent
+ * `grandparent` is an iterable object whose elements are iterable as well as their parent
 
  * `grandchildren` is an iterable object which iterates the 'elements' above
 
