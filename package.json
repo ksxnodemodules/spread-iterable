@@ -1,33 +1,32 @@
-
 {
-	"name": "spread-iterable",
-	"description": "Transform iterable of iterables of things into iterable of that same things",
-	"version": "1.0.1",
-	"author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
-	"contributors": [
-		"Hoàng Văn Khải <hvksmr1996@gmail.com>"
-	],
-	"license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/ksxnodemodules/spread-iterable.git"
-	},
-	"engines": {
-		"node": ">=6.0.0"
-	},
-	"dependencies": {
-		"x-iterable-base": ">=1.0.2 <2.0.0",
-		"simple-class-utils": ">=0.0.4 <2.0.0"
-	},
-	"main": "index.js",
-	"keywords": [
-		"spread-elements",
-		"unpack-subsequences",
-		"unpack-subiterable",
-		"extract-array-elements"
-	],
-	"bugs": {
-		"url": "https://github.com/ksxnodemodules/spread-iterable/issues"
-	},
-	"homepage": "https://github.com/ksxnodemodules/spread-iterable#readme"
+  "name": "spread-iterable",
+  "description": "Transform iterable of iterables of things into iterable of that same things",
+  "version": "2.0.0",
+  "author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
+  "contributors": [
+    "Hoàng Văn Khải <hvksmr1996@gmail.com>"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksxnodemodules/spread-iterable.git"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "dependencies": {
+    "x-iterable-base": "^3.0.1",
+    "simple-class-utils": ">=0.0.4 <2.0.0"
+  },
+  "main": "index.js",
+  "keywords": [
+    "spread-elements",
+    "unpack-subsequences",
+    "unpack-subiterable",
+    "extract-array-elements"
+  ],
+  "bugs": {
+    "url": "https://github.com/ksxnodemodules/spread-iterable/issues"
+  },
+  "homepage": "https://github.com/ksxnodemodules/spread-iterable#readme"
 }
