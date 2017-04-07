@@ -15,8 +15,7 @@
     "node": ">=6.0.0"
   },
   "dependencies": {
-    "x-iterable-base": "^3.0.1",
-    "simple-class-utils": ">=0.0.4 <2.0.0"
+    "x-iterable-base": "^3.0.1"
   },
   "main": "index.js",
   "keywords": [
