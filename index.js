@@ -1,7 +1,5 @@
 'use strict'
-
 var {XIterable, Root} = require('x-iterable-base')
-
 var {iterator} = Symbol
 
 class SpreadIterable extends XIterable(Root) {
