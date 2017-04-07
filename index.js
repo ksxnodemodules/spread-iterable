@@ -1,6 +1,6 @@
 'use strict'
-var {XIterable, Root} = require('x-iterable-base')
-var {iterator} = Symbol
+const {XIterable, Root} = require('x-iterable-base')
+const {iterator} = Symbol
 
 class SpreadIterable extends XIterable(Root) {
   constructor (iterable) {
