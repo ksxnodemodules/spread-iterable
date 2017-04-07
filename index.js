@@ -2,7 +2,6 @@
 ((module) => {
   'use strict'
 
-  var createClassFromSuper = require('simple-class-utils').createClass.super
   var {XIterable, Root} = require('x-iterable-base')
 
   var {iterator} = Symbol
