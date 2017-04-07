@@ -15,7 +15,7 @@ class SpreadIterable extends XIterable(Root) {
   }
 
   static many (...args) {
-    return new SpreadIterable(args.map((iterable) => new SpreadIterable(iterable)))
+    return new SpreadIterable(args.map(iterable => new SpreadIterable(iterable)))
   }
 
   static times (...args) {
