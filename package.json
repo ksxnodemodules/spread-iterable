@@ -1,7 +1,7 @@
 {
   "name": "spread-iterable",
   "description": "Transform iterable of iterables of things into iterable of that same things",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
   "contributors": [
     "Hoàng Văn Khải <hvksmr1996@gmail.com>"
